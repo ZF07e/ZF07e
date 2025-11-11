@@ -1,5 +1,5 @@
 # 🦝 About Me:
-__I'm Brylle and I'm a Junior Web Developer__ 
+__I'm Brylle and I'm a Junior Software/Web Developer__ 
 <br>
 
 __What I Do?:__
